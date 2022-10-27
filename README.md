@@ -1,2 +1,3 @@
 # Shell
-一些小Shell脚本
+一些Shell&Python脚本
+
